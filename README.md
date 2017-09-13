@@ -1,7 +1,7 @@
 # NexPlayer SDK for TizenTV Sample App.
 ![Sample App Activities](images/tizenlogo.png)
 
-This repository contains a sample application that demonstrates the capabilities of the [NexPlayer SDK for TizenTV ](https://www.nexstreaming.com/products/nexplayer-for-tizen) and is provided for developer educational purposes. To build your own application, you must use the NexPlayer SDK.
+This repository contains a sample application that demonstrates the capabilities of the [NexPlayer SDK for TizenTV ](https://nexplayersdk.com/nexplayer-tizen/) and is provided for developer educational purposes. To build your own application, you must use the NexPlayer SDK.
 
 
 
@@ -32,12 +32,12 @@ NexPlayer for Tizen, a player SDK for Tizen-based apps, allowing video service p
 
 ## Development Requirements
 
-- **[NexPlayerSDK for TizenTV ver 0.9.6](https://www.nexstreaming.com/products/nexplayer-for-tizen)  or later**
+- **[NexPlayerSDK for TizenTV ver 0.9.6](https://nexplayersdk.com/nexplayer-tizen/)  or later**
 
 - **[Tizen TV Extension Image 3.0.2](http://developer.samsung.com/tv/develop/tools/tv-extension/download)** or later.
 - **[Tizen Studio v1.2.0](http://developer.samsung.com/tv/develop/tools/tizen-studio/)** or later.
 
-     **PLEASE NOTE:** The NexPlayer SDK for Tizen library necessary to build this app is not provided with this sample code. To receive a free trial copy of the SDK, please fill out the **[NexPlayer SDK trial signup form](https://www.nexstreaming.com/products/nexplayer-for-tizen)** to be sent a link where you can download the SDK along with a free trial license key.
+     **PLEASE NOTE:** The NexPlayer SDK for Tizen library necessary to build this app is not provided with this sample code. To receive a free trial copy of the SDK, please fill out the **[NexPlayer SDK trial signup form](https://nexplayersdk.com/nexplayer-tizen/)** to be sent a link where you can download the SDK along with a free trial license key.
 
 ## How To use.
 
@@ -51,12 +51,12 @@ NexPlayer for Tizen, a player SDK for Tizen-based apps, allowing video service p
 
 * [Nexplayer SDK for Tiezn TV Product Specification](https://github.com/Nexstreaming/nexplayer-sdk-samples-tizenTV/blob/master/documents/overview/Specification.md)
 
-* [Nexplayer SDK for Tiezn TV Product Page](https://www.nexstreaming.com/products/nexplayer-for-tizen)
+* [Nexplayer SDK for Tiezn TV Product Page](https://nexplayersdk.com/nexplayer-tizen/)
 
 
 
 ## Contact
-[NexPlayer SDK]( http://www.nexplayersdk.com)
+[NexPlayer SDK](https://nexplayersdk.com/request/)
 
 ## License
 
